@@ -100,6 +100,12 @@ European Call Option Price: 10.47
 European Put Option Price: 5.32
 ```
 
+## Visualizations 
+![order_book_before](https://github.com/user-attachments/assets/14c88d68-43f6-4e01-8d3a-2cf56f7c2d3a)
+![order_book_after](https://github.com/user-attachments/assets/305418a9-67ef-46af-906e-0cb06d956ad2)
+![mc_simulation](https://github.com/user-attachments/assets/60c45feb-ed80-4778-ac1c-d43e71323623)
+
+
 ---
 
 ## Future Enhancements
